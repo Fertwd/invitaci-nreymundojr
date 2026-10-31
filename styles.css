@@ -7,12 +7,12 @@
     --dark-bg: #020305;
 
     /* --- POSICIÓN BOTÓN 1: PRIMERA.JPG (EMPEZAR PARTIDA) --- */
-    --pos-empezar-top: 78%;
+    --pos-empezar-top: 65%;
     --pos-empezar-left: 50%;
     --ancho-empezar: 82%;
 
     /* --- POSICIÓN CONTENEDOR 2 BOTONES: SEGUNDA.JPG --- */
-    --pos-duales-top: 76%;
+    --pos-duales-top: 83%;
     --pos-duales-left: 50%;
     --ancho-duales: 90%;
 }
